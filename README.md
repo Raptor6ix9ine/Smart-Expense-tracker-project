@@ -1,2 +1,1 @@
-# Smart-Expense-tracker-project
-Designed and developed an Excel-based expense tracking system to record and manage daily financial transactions. Utilized formulas and functions for automated calculations and data organization.   Ensured high data accuracy through validation techniques and structured data entry methods.
+This project uses Excel features like formulas, pivot tables, and charts to provide a structured and automated way to record and analyze expenses without needing any programming knowledge.
